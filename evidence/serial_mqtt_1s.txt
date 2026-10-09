@@ -1,0 +1,602 @@
+
+====================================
+ NODO IoT DE CONFORT TERMICO
+====================================
+[WiFi] Conectando......
+[WiFi] Conectado.
+[WiFi] IP: 192.168.0.101
+[WiFi] RSSI: -39
+Sistema listo.
+====================================
+[MQTT] Conectando... OK
+[MQTT] Suscrito a ACK: telecom/lab1/ESP32_01/ack
+
+---------- LECTURA ----------
+Temperatura: 23.2 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -40 dBm
+[MQTT] OK | Latencia RTT=22 ms | seq=0
+[MQTT] JSON: {"node_id":"ESP32_01","seq":0,"timestamp":3,"value":23.2,"temperature":23.2,"humidity":10.1,"fan":false,"rssi":-40,"uptime_ms":3229,"alert_type":"none"}
+DATA,MQTT,0,-40,22,1,152
+
+---------- LECTURA ----------
+Temperatura: 23.2 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -40 dBm
+[MQTT] OK | Latencia RTT=21 ms | seq=1
+[MQTT] JSON: {"node_id":"ESP32_01","seq":1,"timestamp":4,"value":23.2,"temperature":23.2,"humidity":10.1,"fan":false,"rssi":-40,"uptime_ms":4203,"alert_type":"none"}
+DATA,MQTT,1,-40,21,1,152
+
+---------- LECTURA ----------
+Temperatura: 23.2 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -41 dBm
+[MQTT] OK | Latencia RTT=371 ms | seq=2
+[MQTT] JSON: {"node_id":"ESP32_01","seq":2,"timestamp":5,"value":23.2,"temperature":23.2,"humidity":10.1,"fan":false,"rssi":-41,"uptime_ms":5228,"alert_type":"none"}
+DATA,MQTT,2,-40,371,1,152
+
+---------- LECTURA ----------
+Temperatura: 23.2 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -41 dBm
+[MQTT] OK | Latencia RTT=31 ms | seq=3
+[MQTT] JSON: {"node_id":"ESP32_01","seq":3,"timestamp":6,"value":23.2,"temperature":23.2,"humidity":10.1,"fan":false,"rssi":-41,"uptime_ms":6203,"alert_type":"none"}
+DATA,MQTT,3,-41,31,1,152
+
+---------- LECTURA ----------
+Temperatura: 23.3 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -41 dBm
+[MQTT] OK | Latencia RTT=22 ms | seq=4
+[MQTT] JSON: {"node_id":"ESP32_01","seq":4,"timestamp":7,"value":23.3,"temperature":23.3,"humidity":10.1,"fan":false,"rssi":-41,"uptime_ms":7228,"alert_type":"none"}
+DATA,MQTT,4,-41,22,1,152
+
+---------- LECTURA ----------
+Temperatura: 23.3 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -39 dBm
+[MQTT] OK | Latencia RTT=171 ms | seq=5
+[MQTT] JSON: {"node_id":"ESP32_01","seq":5,"timestamp":8,"value":23.3,"temperature":23.3,"humidity":10.1,"fan":false,"rssi":-39,"uptime_ms":8204,"alert_type":"none"}
+DATA,MQTT,5,-44,171,1,152
+
+---------- LECTURA ----------
+Temperatura: 23.3 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -41 dBm
+[MQTT] OK | Latencia RTT=32 ms | seq=6
+[MQTT] JSON: {"node_id":"ESP32_01","seq":6,"timestamp":9,"value":23.3,"temperature":23.3,"humidity":10.1,"fan":false,"rssi":-41,"uptime_ms":9229,"alert_type":"none"}
+DATA,MQTT,6,-41,32,1,152
+
+---------- LECTURA ----------
+Temperatura: 23.3 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -38 dBm
+[MQTT] OK | Latencia RTT=21 ms | seq=7
+[MQTT] JSON: {"node_id":"ESP32_01","seq":7,"timestamp":10,"value":23.3,"temperature":23.3,"humidity":10.1,"fan":false,"rssi":-38,"uptime_ms":10204,"alert_type":"none"}
+DATA,MQTT,7,-38,21,1,154
+
+---------- LECTURA ----------
+Temperatura: 23.3 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -41 dBm
+[MQTT] OK | Latencia RTT=22 ms | seq=8
+[MQTT] JSON: {"node_id":"ESP32_01","seq":8,"timestamp":11,"value":23.3,"temperature":23.3,"humidity":10.1,"fan":false,"rssi":-41,"uptime_ms":11229,"alert_type":"none"}
+DATA,MQTT,8,-41,22,1,154
+
+---------- LECTURA ----------
+Temperatura: 23.3 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -40 dBm
+[MQTT] OK | Latencia RTT=31 ms | seq=9
+[MQTT] JSON: {"node_id":"ESP32_01","seq":9,"timestamp":12,"value":23.3,"temperature":23.3,"humidity":10.1,"fan":false,"rssi":-40,"uptime_ms":12204,"alert_type":"none"}
+DATA,MQTT,9,-38,31,1,154
+
+========== ESTADISTICAS ==========
+Mensajes enviados: 10
+Mensajes exitosos: 10
+Tasa de exito: 100.00%
+RSSI actual: -38 dBm
+==================================
+
+
+---------- LECTURA ----------
+Temperatura: 23.3 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -37 dBm
+[MQTT] OK | Latencia RTT=22 ms | seq=10
+[MQTT] JSON: {"node_id":"ESP32_01","seq":10,"timestamp":13,"value":23.3,"temperature":23.3,"humidity":10.1,"fan":false,"rssi":-37,"uptime_ms":13229,"alert_type":"none"}
+DATA,MQTT,10,-41,22,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.3 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -38 dBm
+[MQTT] OK | Latencia RTT=21 ms | seq=11
+[MQTT] JSON: {"node_id":"ESP32_01","seq":11,"timestamp":14,"value":23.3,"temperature":23.3,"humidity":10.1,"fan":false,"rssi":-38,"uptime_ms":14204,"alert_type":"none"}
+DATA,MQTT,11,-38,21,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.3 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -38 dBm
+[MQTT] OK | Latencia RTT=32 ms | seq=12
+[MQTT] JSON: {"node_id":"ESP32_01","seq":12,"timestamp":15,"value":23.3,"temperature":23.3,"humidity":10.1,"fan":false,"rssi":-38,"uptime_ms":15229,"alert_type":"none"}
+DATA,MQTT,12,-38,32,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.3 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -40 dBm
+[MQTT] OK | Latencia RTT=21 ms | seq=13
+[MQTT] JSON: {"node_id":"ESP32_01","seq":13,"timestamp":16,"value":23.3,"temperature":23.3,"humidity":10.1,"fan":false,"rssi":-40,"uptime_ms":16204,"alert_type":"none"}
+DATA,MQTT,13,-37,21,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.3 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -35 dBm
+[MQTT] OK | Latencia RTT=22 ms | seq=14
+[MQTT] JSON: {"node_id":"ESP32_01","seq":14,"timestamp":17,"value":23.3,"temperature":23.3,"humidity":10.1,"fan":false,"rssi":-35,"uptime_ms":17229,"alert_type":"none"}
+DATA,MQTT,14,-36,22,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.3 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -40 dBm
+[MQTT] OK | Latencia RTT=31 ms | seq=15
+[MQTT] JSON: {"node_id":"ESP32_01","seq":15,"timestamp":18,"value":23.3,"temperature":23.3,"humidity":10.1,"fan":false,"rssi":-40,"uptime_ms":18204,"alert_type":"none"}
+DATA,MQTT,15,-40,31,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.3 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -38 dBm
+[MQTT] OK | Latencia RTT=32 ms | seq=16
+[MQTT] JSON: {"node_id":"ESP32_01","seq":16,"timestamp":19,"value":23.3,"temperature":23.3,"humidity":10.1,"fan":false,"rssi":-38,"uptime_ms":19229,"alert_type":"none"}
+DATA,MQTT,16,-38,32,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.3 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -43 dBm
+[MQTT] OK | Latencia RTT=31 ms | seq=17
+[MQTT] JSON: {"node_id":"ESP32_01","seq":17,"timestamp":20,"value":23.3,"temperature":23.3,"humidity":10.1,"fan":false,"rssi":-43,"uptime_ms":20204,"alert_type":"none"}
+DATA,MQTT,17,-43,31,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.4 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -35 dBm
+[MQTT] OK | Latencia RTT=22 ms | seq=18
+[MQTT] JSON: {"node_id":"ESP32_01","seq":18,"timestamp":21,"value":23.4,"temperature":23.4,"humidity":10.1,"fan":false,"rssi":-35,"uptime_ms":21228,"alert_type":"none"}
+DATA,MQTT,18,-38,22,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.4 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -37 dBm
+[MQTT] OK | Latencia RTT=21 ms | seq=19
+[MQTT] JSON: {"node_id":"ESP32_01","seq":19,"timestamp":22,"value":23.4,"temperature":23.4,"humidity":10.1,"fan":false,"rssi":-37,"uptime_ms":22204,"alert_type":"none"}
+DATA,MQTT,19,-37,21,1,155
+
+========== ESTADISTICAS ==========
+Mensajes enviados: 20
+Mensajes exitosos: 20
+Tasa de exito: 100.00%
+RSSI actual: -37 dBm
+==================================
+
+
+---------- LECTURA ----------
+Temperatura: 23.4 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -35 dBm
+[MQTT] OK | Latencia RTT=22 ms | seq=20
+[MQTT] JSON: {"node_id":"ESP32_01","seq":20,"timestamp":23,"value":23.4,"temperature":23.4,"humidity":10.1,"fan":false,"rssi":-35,"uptime_ms":23228,"alert_type":"none"}
+DATA,MQTT,20,-35,22,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.4 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -39 dBm
+[MQTT] OK | Latencia RTT=21 ms | seq=21
+[MQTT] JSON: {"node_id":"ESP32_01","seq":21,"timestamp":24,"value":23.4,"temperature":23.4,"humidity":10.1,"fan":false,"rssi":-39,"uptime_ms":24204,"alert_type":"none"}
+DATA,MQTT,21,-35,21,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.4 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -34 dBm
+[MQTT] OK | Latencia RTT=22 ms | seq=22
+[MQTT] JSON: {"node_id":"ESP32_01","seq":22,"timestamp":25,"value":23.4,"temperature":23.4,"humidity":10.1,"fan":false,"rssi":-34,"uptime_ms":25228,"alert_type":"none"}
+DATA,MQTT,22,-37,22,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.4 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -41 dBm
+[MQTT] OK | Latencia RTT=181 ms | seq=23
+[MQTT] JSON: {"node_id":"ESP32_01","seq":23,"timestamp":26,"value":23.4,"temperature":23.4,"humidity":10.1,"fan":false,"rssi":-41,"uptime_ms":26204,"alert_type":"none"}
+DATA,MQTT,23,-38,181,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.4 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -41 dBm
+[MQTT] OK | Latencia RTT=192 ms | seq=24
+[MQTT] JSON: {"node_id":"ESP32_01","seq":24,"timestamp":27,"value":23.4,"temperature":23.4,"humidity":10.1,"fan":false,"rssi":-41,"uptime_ms":27228,"alert_type":"none"}
+DATA,MQTT,24,-46,192,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.4 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -40 dBm
+[MQTT] OK | Latencia RTT=231 ms | seq=25
+[MQTT] JSON: {"node_id":"ESP32_01","seq":25,"timestamp":28,"value":23.4,"temperature":23.4,"humidity":10.1,"fan":false,"rssi":-40,"uptime_ms":28204,"alert_type":"none"}
+DATA,MQTT,25,-44,231,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.4 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -39 dBm
+[MQTT] OK | Latencia RTT=42 ms | seq=26
+[MQTT] JSON: {"node_id":"ESP32_01","seq":26,"timestamp":29,"value":23.4,"temperature":23.4,"humidity":10.1,"fan":false,"rssi":-39,"uptime_ms":29228,"alert_type":"none"}
+DATA,MQTT,26,-43,42,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.4 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -42 dBm
+[MQTT] OK | Latencia RTT=181 ms | seq=27
+[MQTT] JSON: {"node_id":"ESP32_01","seq":27,"timestamp":30,"value":23.4,"temperature":23.4,"humidity":10.1,"fan":false,"rssi":-42,"uptime_ms":30204,"alert_type":"none"}
+DATA,MQTT,27,-40,181,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.4 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -44 dBm
+[MQTT] OK | Latencia RTT=182 ms | seq=28
+[MQTT] JSON: {"node_id":"ESP32_01","seq":28,"timestamp":31,"value":23.4,"temperature":23.4,"humidity":10.1,"fan":false,"rssi":-44,"uptime_ms":31228,"alert_type":"none"}
+DATA,MQTT,28,-44,182,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.4 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -41 dBm
+[MQTT] OK | Latencia RTT=231 ms | seq=29
+[MQTT] JSON: {"node_id":"ESP32_01","seq":29,"timestamp":32,"value":23.4,"temperature":23.4,"humidity":10.1,"fan":false,"rssi":-41,"uptime_ms":32203,"alert_type":"none"}
+DATA,MQTT,29,-44,231,1,155
+
+========== ESTADISTICAS ==========
+Mensajes enviados: 30
+Mensajes exitosos: 30
+Tasa de exito: 100.00%
+RSSI actual: -44 dBm
+==================================
+
+
+---------- LECTURA ----------
+Temperatura: 23.4 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -44 dBm
+[MQTT] OK | Latencia RTT=232 ms | seq=30
+[MQTT] JSON: {"node_id":"ESP32_01","seq":30,"timestamp":33,"value":23.4,"temperature":23.4,"humidity":10.1,"fan":false,"rssi":-44,"uptime_ms":33228,"alert_type":"none"}
+DATA,MQTT,30,-44,232,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.4 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -46 dBm
+[MQTT] OK | Latencia RTT=41 ms | seq=31
+[MQTT] JSON: {"node_id":"ESP32_01","seq":31,"timestamp":34,"value":23.4,"temperature":23.4,"humidity":10.1,"fan":false,"rssi":-46,"uptime_ms":34204,"alert_type":"none"}
+DATA,MQTT,31,-44,41,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.0 %
+Ventilador: APAGADO
+RSSI: -42 dBm
+[MQTT] OK | Latencia RTT=172 ms | seq=32
+[MQTT] JSON: {"node_id":"ESP32_01","seq":32,"timestamp":35,"value":23.5,"temperature":23.5,"humidity":10,"fan":false,"rssi":-42,"uptime_ms":35228,"alert_type":"none"}
+DATA,MQTT,32,-41,172,1,153
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.0 %
+Ventilador: APAGADO
+RSSI: -43 dBm
+[MQTT] OK | Latencia RTT=521 ms | seq=33
+[MQTT] JSON: {"node_id":"ESP32_01","seq":33,"timestamp":36,"value":23.5,"temperature":23.5,"humidity":10,"fan":false,"rssi":-43,"uptime_ms":36204,"alert_type":"none"}
+DATA,MQTT,33,-39,521,1,153
+
+---------- LECTURA ----------
+Temperatura: 23.4 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -42 dBm
+[MQTT] OK | Latencia RTT=322 ms | seq=34
+[MQTT] JSON: {"node_id":"ESP32_01","seq":34,"timestamp":37,"value":23.4,"temperature":23.4,"humidity":10.1,"fan":false,"rssi":-42,"uptime_ms":37228,"alert_type":"none"}
+DATA,MQTT,34,-42,322,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.4 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -44 dBm
+[MQTT] OK | Latencia RTT=201 ms | seq=35
+[MQTT] JSON: {"node_id":"ESP32_01","seq":35,"timestamp":38,"value":23.4,"temperature":23.4,"humidity":10.1,"fan":false,"rssi":-44,"uptime_ms":38204,"alert_type":"none"}
+DATA,MQTT,35,-45,201,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.4 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -45 dBm
+[MQTT] OK | Latencia RTT=162 ms | seq=36
+[MQTT] JSON: {"node_id":"ESP32_01","seq":36,"timestamp":39,"value":23.4,"temperature":23.4,"humidity":10.1,"fan":false,"rssi":-45,"uptime_ms":39228,"alert_type":"none"}
+DATA,MQTT,36,-43,162,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.4 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -42 dBm
+[MQTT] OK | Latencia RTT=211 ms | seq=37
+[MQTT] JSON: {"node_id":"ESP32_01","seq":37,"timestamp":40,"value":23.4,"temperature":23.4,"humidity":10.1,"fan":false,"rssi":-42,"uptime_ms":40204,"alert_type":"none"}
+DATA,MQTT,37,-40,211,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -43 dBm
+[MQTT] OK | Latencia RTT=212 ms | seq=38
+[MQTT] JSON: {"node_id":"ESP32_01","seq":38,"timestamp":41,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-43,"uptime_ms":41229,"alert_type":"none"}
+DATA,MQTT,38,-41,212,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -41 dBm
+[MQTT] OK | Latencia RTT=61 ms | seq=39
+[MQTT] JSON: {"node_id":"ESP32_01","seq":39,"timestamp":42,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-41,"uptime_ms":42204,"alert_type":"none"}
+DATA,MQTT,39,-38,61,1,155
+
+========== ESTADISTICAS ==========
+Mensajes enviados: 40
+Mensajes exitosos: 40
+Tasa de exito: 100.00%
+RSSI actual: -38 dBm
+==================================
+
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -41 dBm
+[MQTT] OK | Latencia RTT=72 ms | seq=40
+[MQTT] JSON: {"node_id":"ESP32_01","seq":40,"timestamp":43,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-41,"uptime_ms":43229,"alert_type":"none"}
+DATA,MQTT,40,-39,72,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -38 dBm
+[MQTT] OK | Latencia RTT=21 ms | seq=41
+[MQTT] JSON: {"node_id":"ESP32_01","seq":41,"timestamp":44,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-38,"uptime_ms":44204,"alert_type":"none"}
+DATA,MQTT,41,-38,21,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -45 dBm
+[MQTT] OK | Latencia RTT=42 ms | seq=42
+[MQTT] JSON: {"node_id":"ESP32_01","seq":42,"timestamp":45,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-45,"uptime_ms":45229,"alert_type":"none"}
+DATA,MQTT,42,-45,42,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -42 dBm
+[MQTT] OK | Latencia RTT=61 ms | seq=43
+[MQTT] JSON: {"node_id":"ESP32_01","seq":43,"timestamp":46,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-42,"uptime_ms":46204,"alert_type":"none"}
+DATA,MQTT,43,-39,61,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -37 dBm
+[MQTT] OK | Latencia RTT=52 ms | seq=44
+[MQTT] JSON: {"node_id":"ESP32_01","seq":44,"timestamp":47,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-37,"uptime_ms":47229,"alert_type":"none"}
+DATA,MQTT,44,-41,52,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -41 dBm
+[MQTT] OK | Latencia RTT=201 ms | seq=45
+[MQTT] JSON: {"node_id":"ESP32_01","seq":45,"timestamp":48,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-41,"uptime_ms":48204,"alert_type":"none"}
+DATA,MQTT,45,-37,201,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -42 dBm
+[MQTT] OK | Latencia RTT=32 ms | seq=46
+[MQTT] JSON: {"node_id":"ESP32_01","seq":46,"timestamp":49,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-42,"uptime_ms":49229,"alert_type":"none"}
+DATA,MQTT,46,-42,32,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -42 dBm
+[MQTT] OK | Latencia RTT=21 ms | seq=47
+[MQTT] JSON: {"node_id":"ESP32_01","seq":47,"timestamp":50,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-42,"uptime_ms":50204,"alert_type":"none"}
+DATA,MQTT,47,-41,21,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -42 dBm
+[MQTT] OK | Latencia RTT=52 ms | seq=48
+[MQTT] JSON: {"node_id":"ESP32_01","seq":48,"timestamp":51,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-42,"uptime_ms":51229,"alert_type":"none"}
+DATA,MQTT,48,-42,52,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -42 dBm
+[MQTT] OK | Latencia RTT=191 ms | seq=49
+[MQTT] JSON: {"node_id":"ESP32_01","seq":49,"timestamp":52,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-42,"uptime_ms":52204,"alert_type":"none"}
+DATA,MQTT,49,-42,191,1,155
+
+========== ESTADISTICAS ==========
+Mensajes enviados: 50
+Mensajes exitosos: 50
+Tasa de exito: 100.00%
+RSSI actual: -42 dBm
+==================================
+
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -37 dBm
+[MQTT] OK | Latencia RTT=192 ms | seq=50
+[MQTT] JSON: {"node_id":"ESP32_01","seq":50,"timestamp":53,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-37,"uptime_ms":53229,"alert_type":"none"}
+DATA,MQTT,50,-39,192,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -41 dBm
+[MQTT] OK | Latencia RTT=31 ms | seq=51
+[MQTT] JSON: {"node_id":"ESP32_01","seq":51,"timestamp":54,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-41,"uptime_ms":54204,"alert_type":"none"}
+DATA,MQTT,51,-41,31,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -41 dBm
+[MQTT] OK | Latencia RTT=242 ms | seq=52
+[MQTT] JSON: {"node_id":"ESP32_01","seq":52,"timestamp":55,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-41,"uptime_ms":55229,"alert_type":"none"}
+DATA,MQTT,52,-42,242,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -43 dBm
+[MQTT] OK | Latencia RTT=31 ms | seq=53
+[MQTT] JSON: {"node_id":"ESP32_01","seq":53,"timestamp":56,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-43,"uptime_ms":56204,"alert_type":"none"}
+DATA,MQTT,53,-43,31,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -40 dBm
+[MQTT] OK | Latencia RTT=192 ms | seq=54
+[MQTT] JSON: {"node_id":"ESP32_01","seq":54,"timestamp":57,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-40,"uptime_ms":57229,"alert_type":"none"}
+DATA,MQTT,54,-36,192,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -40 dBm
+[MQTT] OK | Latencia RTT=241 ms | seq=55
+[MQTT] JSON: {"node_id":"ESP32_01","seq":55,"timestamp":58,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-40,"uptime_ms":58204,"alert_type":"none"}
+DATA,MQTT,55,-40,241,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -43 dBm
+[MQTT] OK | Latencia RTT=32 ms | seq=56
+[MQTT] JSON: {"node_id":"ESP32_01","seq":56,"timestamp":59,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-43,"uptime_ms":59229,"alert_type":"none"}
+DATA,MQTT,56,-43,32,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -37 dBm
+[MQTT] OK | Latencia RTT=181 ms | seq=57
+[MQTT] JSON: {"node_id":"ESP32_01","seq":57,"timestamp":60,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-37,"uptime_ms":60204,"alert_type":"none"}
+DATA,MQTT,57,-40,181,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -37 dBm
+[MQTT] OK | Latencia RTT=32 ms | seq=58
+[MQTT] JSON: {"node_id":"ESP32_01","seq":58,"timestamp":61,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-37,"uptime_ms":61229,"alert_type":"none"}
+DATA,MQTT,58,-37,32,1,155
+
+---------- LECTURA ----------
+Temperatura: 23.5 C
+Humedad: 10.1 %
+Ventilador: APAGADO
+RSSI: -38 dBm
+[MQTT] OK | Latencia RTT=231 ms | seq=59
+[MQTT] JSON: {"node_id":"ESP32_01","seq":59,"timestamp":62,"value":23.5,"temperature":23.5,"humidity":10.1,"fan":false,"rssi":-38,"uptime_ms":62203,"alert_type":"none"}
+DATA,MQTT,59,-38,231,1,155
+
+========== ESTADISTICAS ==========
+Mensajes enviados: 60
+Mensajes exitosos: 60
+Tasa de exito: 100.00%
+RSSI actual: -38 dBm
+==================================
+
+
+[FIN] Se completaron las 60 muestras. Sistema en pausa.

@@ -1,0 +1,305 @@
+[WiFi] Conectando....
+[WiFi] Conectado.
+[WiFi] IP: 192.168.0.103
+[WiFi] Gateway: 192.168.0.254
+[WiFi] Mascara: 255.255.255.0
+[WiFi] RSSI: -62
+
+Sistema listo.
+DATA_HEADER,proto,seq,rssi,lat_ms,exito,bytes
+
+---------- LECTURA ----------
+Temperatura: 22.6 C
+Humedad: 13.0 %
+Ventilador: APAGADO
+RSSI: -62 dBm
+JSON: {"node_id":"ESP32_01","seq":0,"timestamp":4,"value":22.6,"temperature":22.6,"humidity":13,"fan":false,"rssi":-62,"uptime_ms":4520,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=1642 ms | OK
+DATA,HTTP,0,-62,1642,1,270
+
+---------- LECTURA ----------
+Temperatura: 22.7 C
+Humedad: 13.0 %
+Ventilador: APAGADO
+RSSI: -58 dBm
+JSON: {"node_id":"ESP32_01","seq":1,"timestamp":1791517068,"value":22.7,"temperature":22.7,"humidity":13,"fan":false,"rssi":-58,"uptime_ms":16224,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=260 ms | OK
+DATA,HTTP,1,-60,260,1,280
+
+---------- LECTURA ----------
+Temperatura: 22.8 C
+Humedad: 13.0 %
+Ventilador: APAGADO
+RSSI: -62 dBm
+JSON: {"node_id":"ESP32_01","seq":2,"timestamp":1791517079,"value":22.8,"temperature":22.8,"humidity":13,"fan":false,"rssi":-62,"uptime_ms":26546,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=-11 | Latencia=3049 ms | ERROR
+DATA,HTTP,2,-64,3049,0,280
+
+---------- LECTURA ----------
+Temperatura: 22.8 C
+Humedad: 13.0 %
+Ventilador: APAGADO
+RSSI: -61 dBm
+JSON: {"node_id":"ESP32_01","seq":3,"timestamp":1791517092,"value":22.8,"temperature":22.8,"humidity":13,"fan":false,"rssi":-61,"uptime_ms":39656,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=392 ms | OK
+DATA,HTTP,3,-61,392,1,280
+
+---------- LECTURA ----------
+Temperatura: 22.9 C
+Humedad: 13.0 %
+Ventilador: APAGADO
+RSSI: -59 dBm
+JSON: {"node_id":"ESP32_01","seq":4,"timestamp":1791517102,"value":22.9,"temperature":22.9,"humidity":13,"fan":false,"rssi":-59,"uptime_ms":50110,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=191 ms | OK
+DATA,HTTP,4,-62,191,1,280
+
+---------- LECTURA ----------
+Temperatura: 22.9 C
+Humedad: 12.8 %
+Ventilador: APAGADO
+RSSI: -61 dBm
+JSON: {"node_id":"ESP32_01","seq":5,"timestamp":1791517113,"value":22.9,"temperature":22.9,"humidity":12.8,"fan":false,"rssi":-61,"uptime_ms":60363,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=386 ms | OK
+DATA,HTTP,5,-61,386,1,282
+
+---------- LECTURA ----------
+Temperatura: 22.9 C
+Humedad: 12.8 %
+Ventilador: APAGADO
+RSSI: -60 dBm
+JSON: {"node_id":"ESP32_01","seq":6,"timestamp":1791517123,"value":22.9,"temperature":22.9,"humidity":12.8,"fan":false,"rssi":-60,"uptime_ms":70811,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=980 ms | OK
+DATA,HTTP,6,-59,980,1,282
+
+---------- LECTURA ----------
+Temperatura: 22.9 C
+Humedad: 12.8 %
+Ventilador: APAGADO
+RSSI: -61 dBm
+JSON: {"node_id":"ESP32_01","seq":7,"timestamp":1791517134,"value":22.9,"temperature":22.9,"humidity":12.8,"fan":false,"rssi":-61,"uptime_ms":81853,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=500 ms | OK
+DATA,HTTP,7,-60,500,1,282
+
+---------- LECTURA ----------
+Temperatura: 23.0 C
+Humedad: 12.8 %
+Ventilador: APAGADO
+RSSI: -60 dBm
+JSON: {"node_id":"ESP32_01","seq":8,"timestamp":1791517145,"value":23,"temperature":23,"humidity":12.8,"fan":false,"rssi":-60,"uptime_ms":92415,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=410 ms | OK
+DATA,HTTP,8,-61,410,1,278
+
+---------- LECTURA ----------
+Temperatura: 23.0 C
+Humedad: 12.8 %
+Ventilador: APAGADO
+RSSI: -61 dBm
+JSON: {"node_id":"ESP32_01","seq":9,"timestamp":1791517155,"value":23,"temperature":23,"humidity":12.8,"fan":false,"rssi":-61,"uptime_ms":102886,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=1500 ms | OK
+DATA,HTTP,9,-60,1500,1,279
+
+========== ESTADISTICAS ==========
+Mensajes enviados:  10
+Mensajes exitosos:  9
+Tasa de exito: 90.00%
+RSSI actual: -60 dBm
+==================================
+
+
+---------- LECTURA ----------
+Temperatura: 23.0 C
+Humedad: 12.2 %
+Ventilador: APAGADO
+RSSI: -60 dBm
+JSON: {"node_id":"ESP32_01","seq":10,"timestamp":1791517167,"value":23,"temperature":23,"humidity":12.2,"fan":false,"rssi":-60,"uptime_ms":114459,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=750 ms | OK
+DATA,HTTP,10,-60,750,1,280
+
+---------- LECTURA ----------
+Temperatura: 23.0 C
+Humedad: 12.2 %
+Ventilador: APAGADO
+RSSI: -60 dBm
+JSON: {"node_id":"ESP32_01","seq":11,"timestamp":1791517177,"value":23,"temperature":23,"humidity":12.2,"fan":false,"rssi":-60,"uptime_ms":125270,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=-11 | Latencia=4211 ms | ERROR
+DATA,HTTP,11,-60,4211,0,280
+
+---------- LECTURA ----------
+Temperatura: 23.0 C
+Humedad: 12.2 %
+Ventilador: APAGADO
+RSSI: -62 dBm
+JSON: {"node_id":"ESP32_01","seq":12,"timestamp":1791517192,"value":23,"temperature":23,"humidity":12.2,"fan":false,"rssi":-62,"uptime_ms":139542,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=1315 ms | OK
+DATA,HTTP,12,-63,1315,1,280
+
+---------- LECTURA ----------
+Temperatura: 23.0 C
+Humedad: 12.2 %
+Ventilador: APAGADO
+RSSI: -60 dBm
+JSON: {"node_id":"ESP32_01","seq":13,"timestamp":1791517203,"value":23,"temperature":23,"humidity":12.2,"fan":false,"rssi":-60,"uptime_ms":150918,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=450 ms | OK
+DATA,HTTP,13,-59,450,1,280
+
+---------- LECTURA ----------
+Temperatura: 23.0 C
+Humedad: 12.0 %
+Ventilador: APAGADO
+RSSI: -60 dBm
+JSON: {"node_id":"ESP32_01","seq":14,"timestamp":1791517214,"value":23,"temperature":23,"humidity":12,"fan":false,"rssi":-60,"uptime_ms":161430,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=418 ms | OK
+DATA,HTTP,14,-61,418,1,278
+
+---------- LECTURA ----------
+Temperatura: 23.0 C
+Humedad: 11.8 %
+Ventilador: APAGADO
+RSSI: -60 dBm
+JSON: {"node_id":"ESP32_01","seq":15,"timestamp":1791517224,"value":23,"temperature":23,"humidity":11.8,"fan":false,"rssi":-60,"uptime_ms":171910,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=438 ms | OK
+DATA,HTTP,15,-62,438,1,280
+
+---------- LECTURA ----------
+Temperatura: 23.0 C
+Humedad: 11.8 %
+Ventilador: APAGADO
+RSSI: -61 dBm
+JSON: {"node_id":"ESP32_01","seq":16,"timestamp":1791517235,"value":23,"temperature":23,"humidity":11.8,"fan":false,"rssi":-61,"uptime_ms":182409,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=233 ms | OK
+DATA,HTTP,16,-61,233,1,280
+
+---------- LECTURA ----------
+Temperatura: 23.1 C
+Humedad: 11.6 %
+Ventilador: APAGADO
+RSSI: -59 dBm
+JSON: {"node_id":"ESP32_01","seq":17,"timestamp":1791517245,"value":23.1,"temperature":23.1,"humidity":11.6,"fan":false,"rssi":-59,"uptime_ms":192704,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=-11 | Latencia=3032 ms | ERROR
+DATA,HTTP,17,-59,3032,0,284
+
+---------- LECTURA ----------
+Temperatura: 23.1 C
+Humedad: 11.6 %
+Ventilador: APAGADO
+RSSI: -60 dBm
+JSON: {"node_id":"ESP32_01","seq":18,"timestamp":1791517258,"value":23.1,"temperature":23.1,"humidity":11.6,"fan":false,"rssi":-60,"uptime_ms":205797,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=2091 ms | OK
+DATA,HTTP,18,-62,2091,1,284
+
+---------- LECTURA ----------
+Temperatura: 23.1 C
+Humedad: 11.6 %
+Ventilador: APAGADO
+RSSI: -60 dBm
+JSON: {"node_id":"ESP32_01","seq":19,"timestamp":1791517270,"value":23.1,"temperature":23.1,"humidity":11.6,"fan":false,"rssi":-60,"uptime_ms":217950,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=523 ms | OK
+DATA,HTTP,19,-61,523,1,284
+
+========== ESTADISTICAS ==========
+Mensajes enviados:  20
+Mensajes exitosos:  17
+Tasa de exito: 85.00%
+RSSI actual: -61 dBm
+==================================
+
+
+---------- LECTURA ----------
+Temperatura: 23.1 C
+Humedad: 11.6 %
+Ventilador: APAGADO
+RSSI: -60 dBm
+JSON: {"node_id":"ESP32_01","seq":20,"timestamp":1791517281,"value":23.1,"temperature":23.1,"humidity":11.6,"fan":false,"rssi":-60,"uptime_ms":228547,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=291 ms | OK
+DATA,HTTP,20,-59,291,1,284
+
+---------- LECTURA ----------
+Temperatura: 23.1 C
+Humedad: 11.6 %
+Ventilador: APAGADO
+RSSI: -61 dBm
+JSON: {"node_id":"ESP32_01","seq":21,"timestamp":1791517291,"value":23.1,"temperature":23.1,"humidity":11.6,"fan":false,"rssi":-61,"uptime_ms":238901,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=224 ms | OK
+DATA,HTTP,21,-61,224,1,284
+
+---------- LECTURA ----------
+Temperatura: 23.1 C
+Humedad: 11.5 %
+Ventilador: APAGADO
+RSSI: -60 dBm
+JSON: {"node_id":"ESP32_01","seq":22,"timestamp":1791517301,"value":23.1,"temperature":23.1,"humidity":11.5,"fan":false,"rssi":-60,"uptime_ms":249187,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=391 ms | OK
+DATA,HTTP,22,-61,391,1,284
+
+---------- LECTURA ----------
+Temperatura: 23.1 C
+Humedad: 11.5 %
+Ventilador: APAGADO
+RSSI: -60 dBm
+JSON: {"node_id":"ESP32_01","seq":23,"timestamp":1791517312,"value":23.1,"temperature":23.1,"humidity":11.5,"fan":false,"rssi":-60,"uptime_ms":259640,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=3455 ms | OK
+DATA,HTTP,23,-61,3455,1,284
+
+---------- LECTURA ----------
+Temperatura: 23.1 C
+Humedad: 11.3 %
+Ventilador: APAGADO
+RSSI: -59 dBm
+JSON: {"node_id":"ESP32_01","seq":24,"timestamp":1791517325,"value":23.1,"temperature":23.1,"humidity":11.3,"fan":false,"rssi":-59,"uptime_ms":273157,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=271 ms | OK
+DATA,HTTP,24,-60,271,1,284
+
+---------- LECTURA ----------
+Temperatura: 23.2 C
+Humedad: 11.3 %
+Ventilador: APAGADO
+RSSI: -61 dBm
+JSON: {"node_id":"ESP32_01","seq":25,"timestamp":1791517336,"value":23.2,"temperature":23.2,"humidity":11.3,"fan":false,"rssi":-61,"uptime_ms":283490,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=391 ms | OK
+DATA,HTTP,25,-61,391,1,284
+
+---------- LECTURA ----------
+Temperatura: 23.2 C
+Humedad: 11.3 %
+Ventilador: APAGADO
+RSSI: -61 dBm
+JSON: {"node_id":"ESP32_01","seq":26,"timestamp":1791517346,"value":23.2,"temperature":23.2,"humidity":11.3,"fan":false,"rssi":-61,"uptime_ms":293943,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=263 ms | OK
+DATA,HTTP,26,-61,263,1,284
+
+---------- LECTURA ----------
+Temperatura: 23.2 C
+Humedad: 11.3 %
+Ventilador: APAGADO
+RSSI: -60 dBm
+JSON: {"node_id":"ESP32_01","seq":27,"timestamp":1791517356,"value":23.2,"temperature":23.2,"humidity":11.3,"fan":false,"rssi":-60,"uptime_ms":304268,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=598 ms | OK
+DATA,HTTP,27,-60,598,1,284
+
+---------- LECTURA ----------
+Temperatura: 23.2 C
+Humedad: 11.1 %
+Ventilador: APAGADO
+RSSI: -63 dBm
+JSON: {"node_id":"ESP32_01","seq":28,"timestamp":1791517367,"value":23.2,"temperature":23.2,"humidity":11.1,"fan":false,"rssi":-63,"uptime_ms":314928,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=395 ms | OK
+DATA,HTTP,28,-63,395,1,284
+
+---------- LECTURA ----------
+Temperatura: 23.2 C
+Humedad: 11.1 %
+Ventilador: APAGADO
+RSSI: -61 dBm
+JSON: {"node_id":"ESP32_01","seq":29,"timestamp":1791517378,"value":23.2,"temperature":23.2,"humidity":11.1,"fan":false,"rssi":-61,"uptime_ms":325385,"ip":"192.168.0.103","gateway":"192.168.0.254","subnet":"255.255.255.0","mac":"20:E7:C8:9E:88:F8","ssid":"TP-Link_3718","alert_type":"none"}
+[HTTP] Codigo=200 | Latencia=486 ms | OK
+DATA,HTTP,29,-62,486,1,284
+
+========== ESTADISTICAS ==========
+Mensajes enviados:  30
+Mensajes exitosos:  27
+Tasa de exito: 90.00%
+RSSI actual: -62 dBm
+==================================
+
+
+[FIN] Se completaron las 30 muestras. Sistema en pausa.
