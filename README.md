@@ -17,6 +17,3 @@ Este repositorio contiene la implementación y documentación del Nodo IoT basad
 | **Tasa de Entrega** | ~92% | **100%** | Sin pérdida de paquetes |
 | **Tiempo de Recuperación ($T_{rec}$)** | 80 s | **30 s** | MQTT reconecta 2.6x más rápido |
 | **Consumo de Ancho de Banda (10s)** | 1.65 KB/min | **0.87 KB/min** | Ahorro del 44.8% en payload |
-
-## 👤 Autor
-* **Nabelén** (`nabelen`)
